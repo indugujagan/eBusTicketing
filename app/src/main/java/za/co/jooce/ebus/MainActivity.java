@@ -14,6 +14,7 @@ import za.co.jooce.ebus.dao.DataSourceFactory;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*Test*/
     private TextView readCardTextView;
 
     @Override
